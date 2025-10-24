@@ -1,6 +1,6 @@
-<p align="center" style="color:blue; font-size:24px; font-family:Arial; font-weight:bold;">
+<h1 align="center" style="color:blue; font-size:24px; font-family:Arial; font-weight:bold;">
 PENJELASAN PADA PERTEMUAN 2
-</p>
+</h1>
 
 
 ## 1. Praktek 2
