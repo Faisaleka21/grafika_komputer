@@ -130,3 +130,15 @@ Untuk kodenya berada di file <b><i>TUGAS Pertemuan 2</i></b> . Hasilnya dari kod
    <img width="348" height="278" alt="image" src="https://github.com/user-attachments/assets/6aa352ce-ce5a-43c5-8821-2da7a5b2de3b" />
 </p>
 
+Untuk penjelasan terkait gambar diatas yang bagian jawaban E. 
+<ul>
+   <li>List</li>
+   Ini untuk menyimpan kumpulan titik berurutan (garis/poligon).
+   
+   <li>Tuple</li>
+   Ini untuk menyimpan titik tetap (pusat rotasi)
+   
+   <li>Dictionary</li>
+   Ini untuk menyimpan atribut tiap objek (x, y, warna, ukuran)
+</ul>
+
