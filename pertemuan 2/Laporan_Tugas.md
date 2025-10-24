@@ -1,4 +1,4 @@
-# <center>PENJELASAN PADA PERTEMUAN 2<center>
+# <center>PENJELASAN PADA PERTEMUAN 2</center>
 
 ## 1. Praktek 2
    
