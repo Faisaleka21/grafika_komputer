@@ -3,7 +3,7 @@ PENJELASAN PADA PERTEMUAN 2
 </h1>
 
 
-<h2> 1. Praktek 2</h2>
+<h2 style="font-family:'Times New Roman';"> 1. PRAKTEK 2</h2>
    
 Pada file praktek 2 untuk mempraktikan terkait Variabel dan Tipe data.
 Ini adalah kodenya :
