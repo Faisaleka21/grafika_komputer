@@ -1,3 +1,5 @@
+# PENJELASAN PADA PERTEMUAN 2
+
 1. Praktek 2
    
 Pada file praktek 2 untuk mempraktikan terkait Variabel dan Tipe data.
