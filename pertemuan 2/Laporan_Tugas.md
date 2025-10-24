@@ -1,4 +1,4 @@
-1. Praktek 2.
+1. Praktek 2.\n
 Pada file praktek 2 untuk mempraktikan terkait Variabel dan Tipe data.
 Ini adalah kodenya :
 
