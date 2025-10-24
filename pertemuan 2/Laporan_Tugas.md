@@ -56,7 +56,7 @@ Ini kodenya dari file tersebut:
       dy = y2 - y1
       print('Selisih koordinat : ', dx,',',dy)
 
-Dan ini adalah hasil dari kode diata :
+Dan ini adalah hasil dari kode diatas :
 
 <p align=center>
    <img width="289" height="112" alt="image" src="https://github.com/user-attachments/assets/5a30330b-6956-4955-a8f2-fe3372d6a300" />
@@ -83,7 +83,7 @@ Ini kodenya dari file tersebut:
       for i in range(10):
           print('Titik ke-',i)
 
-Dan ini adalah hasil dari kode diata :
+Dan ini adalah hasil dari kode diatas :
 
 <p align=center>
    <img width="348" height="315" alt="image" src="https://github.com/user-attachments/assets/588752d9-ab66-4e3d-9d66-22b228a845b6" />
@@ -107,8 +107,26 @@ Ini kodenya dari file tersebut:
       sapa('Budi')
       sapa('Sinta')
 
-Dan ini adalah hasil dari kode diata :
+Dan ini adalah hasil dari kode diatas :
 
 <p align=center>
    <img width="474" height="153" alt="image" src="https://github.com/user-attachments/assets/07bef797-acae-4b02-a687-d8751d5f1997" />
 </p>
+
+----------------------------------------------------------
+
+## TUGAS PERTEMUAN 2
+
+Ini adalah tugas di Pertemuan 2 dan soalnya sebagai berikut :
+
+<p align=center>
+   <img width="787" height="314" alt="image" src="https://github.com/user-attachments/assets/f7eff6d7-9611-434a-80b3-14eab13e5a90" />
+</p>
+
+Untuk kodenya berada di file <b><i>TUGAS Pertemuan 2</i></b> . Hasilnya dari kode tersebut sbg berikut :.
+
+<p align=center>
+   <img width="603" height="498" alt="image" src="https://github.com/user-attachments/assets/2db5c913-7f45-427c-a4b0-816cd553cec3" /><br>
+   <img width="348" height="278" alt="image" src="https://github.com/user-attachments/assets/6aa352ce-ce5a-43c5-8821-2da7a5b2de3b" />
+</p>
+
