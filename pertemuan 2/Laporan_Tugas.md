@@ -97,6 +97,18 @@ Pada file <b><i>"praktek6"</i></b> untuk mempraktikan terkait Fungsi.
 
 Ini kodenya dari file tersebut:
 
-
+      #Fungsi def
+      #jadi sapa itu deklarasi fungsi
+      
+      def sapa(nama):
+          
+          print('Halo ',nama,' Selamat Belajar Grafika Komputer!!')
+      
+      sapa('Budi')
+      sapa('Sinta')
 
 Dan ini adalah hasil dari kode diata :
+
+<p align=center>
+   <img width="474" height="153" alt="image" src="https://github.com/user-attachments/assets/07bef797-acae-4b02-a687-d8751d5f1997" />
+</p>
