@@ -17,7 +17,7 @@ Ini adalah kodenya :
 
 Dan ini adalah hasil dari kode diatas :
 
-<img width="262" height="124" alt="image" src="https://github.com/user-attachments/assets/e703b09f-28ce-49db-ad16-46fb56459104" />
+<img align="center" width="262" height="124" alt="image" src="https://github.com/user-attachments/assets/e703b09f-28ce-49db-ad16-46fb56459104" />
 
 ## 2. Praktek 2
    
