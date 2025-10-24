@@ -1,4 +1,7 @@
-# <center>PENJELASAN PADA PERTEMUAN 2</center>
+<p align="center" style="color:blue; font-size:24px; font-family:Arial; font-weight:bold;">
+PENJELASAN PADA PERTEMUAN 2
+</p>
+
 
 ## 1. Praktek 2
    
