@@ -1,7 +1,7 @@
-<h1 align=center>PENJELASAN DARI TIAP FILE PADA PERTEMUAN 3</h1>
+<h1 align=center> 🗒️ PENJELASAN DARI TIAP FILE PADA PERTEMUAN 3</h1>
 
 
-## 1. Praktikum1.py
+## ⚙️ 1. Praktikum1.py
 
 Pada file <b><i>Praktikum1.py</i></b> ini berisi terkait kode praktik dari contoh Classroom. Berikut kodenya:
 
@@ -18,11 +18,11 @@ Hasil dari kode dia atas maka hasilnya ini :
 
 -----------------------------------------------------------------
 
-## 2.Tugas1.py
+## ⚙️2.Tugas1.py
 
 Pada file Tugas1.py terdapat 2 tugas yaitu 
 
-1. Soal 1: <br>
+1. Soal 1: 📖 <br>
       Buat program Python untuk: <br>
       a. Menerima input dua titik (x1, y1) dan (x2, y2). <br>
       b. Hitung jarak antara kedua titik. <br>
@@ -74,7 +74,7 @@ Hasil dari kode diatas sbg berikut:
     <img width="512" height="264" alt="image" src="https://github.com/user-attachments/assets/2ea89332-159e-4899-bdd7-978c644b24c3" />
 </p>
 
-2. Soal 2: <br>
+2. Soal 2: 📖<br>
       a. Simulasikan sistem koordinat layar berukuran 10x5 piksel menggunakan simbol ".",<br>
       b. Tampilkan posisi titik (x=3, y=2) dengan karakter "X".
 
@@ -107,18 +107,45 @@ Hasil dari kode diatas:
 </p>
 
 -----------------------------------------------------------------
-## 3. Tugas2.py
+## ⚙️3. Tugas2.py
 
 Pada file Tugas2.py terdapat 3 tugas yaitu 
 
-1. Soal 1: <br>
+1. Soal 1: 📖<br>
     a. Buat program Python yang menampilkan grid 10×10 piksel menggunakan ".". <br>
-    b. Ganti piksel di posisi (4,6) menjadi "X". 
-   
-2. Soal 2: <br>
-    Buat program Python yang menggambar garis dari titik (0,0) ke (5,3) dengan menghitung titik      titik koordinatnya (seperti vektor).
+    b. Ganti piksel di posisi (4,6) menjadi "X".
 
-3. Soal 3: <br>
+Kodenya sebagai berikut: 
+
+    print('======= Tugas 2 =======')
+    print('===== Soal 1 =====')
+    lebar = 10
+    tinggi = 10
+    
+    for y in range(tinggi):
+        for x in range(lebar):
+            if x == 4 and y == 6:
+                print('X', end='')
+            else:
+                print('.', end='')
+        print()
+
+Untuk penjelasannya sama dengan penjelasan pada Soal ke-2 pada Tugas1.py. Yang berbeda cuma nilainya.
+   
+2. Soal 2: 📖<br>
+    Buat program Python yang menggambar garis dari titik (0,0) ke (5,3) dengan menghitung titik titik koordinatnya (seperti vektor).
+
+Kodenya sebagai berikut : 
+
+
+
+Untuk penjelasan kode diatas :
+
+<blockquote><p align=justify><i>"
+   
+"</i></p></blockquote>
+
+3. Soal 3: 📋<br>
     Buat tabel perbandingan raster dan vektor berdasarkan hasil praktikum Anda.
 <div align=center>
 
