@@ -131,19 +131,52 @@ Kodenya sebagai berikut:
         print()
 
 Untuk penjelasannya sama dengan penjelasan pada Soal ke-2 pada Tugas1.py. Yang berbeda cuma nilainya.
+Untuk hasilnya bisa dilihat di bawah sendiri pada tabel perbandingan.
    
 2. Soal 2: 📖<br>
     Buat program Python yang menggambar garis dari titik (0,0) ke (5,3) dengan menghitung titik titik koordinatnya (seperti vektor).
 
 Kodenya sebagai berikut : 
 
-
+    print('===== Soal 2 =====')
+    x1,y1 = 0,0
+    x2,y2 = 5,3
+    n=5
+    
+    points=[]
+    for i in range(n+1):
+        x = x1+(x2-x1)*i/n
+        y = y1+(y2-y1)*i/n
+        points.append((round(x),round(y))) #untuk menyimpan ke points dan membulatkan dari hasil x dan y
+        print(f'Titik {i} : ({x:.1f},{y:.1f})') #: .1f itu diberi karena untuk menghapus nilai 0 yg hasilnya banyak
+    print('-------------------')
+    print('Garisnya')
+    lebar = x2+1 
+    tinggi = y2+1
+    for i in range(tinggi):
+        for k in range(lebar):           
+            if i == 0 and k == 0: #pusat
+                print('0', end='')           
+            elif (k, i) in points: #titik
+                print('.', end='')
+            elif i == 0:
+                print('-', end='') #x          
+            elif k == 0:
+                print('|', end='')  #y      
+            else:
+                print(' ', end='')
+        print()
+    print('')
 
 Untuk penjelasan kode diatas :
 
 <blockquote><p align=justify><i>"
-   
+&nbsp; Program ini berfungsi untuk menghitung dan menampilkan titik-titik koordinat dari garis yang menghubungkan titik (0,0) hingga (5,3), dengan pembagian sebanyak lima bagian (n = 5). Setiap titik dihitung menggunakan rumus interpolasi linier (x2 - x1) * i / n dan (y2 - y1) * i / n, lalu dibulatkan agar pas saat digambar di bidang koordinat.
+
+&nbsp; Setelah semua titik tersimpan, program membuat bidang koordinat menggunakan dua perulangan bersarang. Titik pusat ditandai dengan angka 0, sumbu X dengan -, sumbu Y dengan |, dan titik-titik garis dengan tanda titik (.). Hasil akhirnya menampilkan daftar titik koordinat sekaligus bentuk garisnya dalam tampilan teks sederhana, sehingga pengguna dapat melihat bagaimana garis terbentuk di bidang koordinat layar komputer.
 "</i></p></blockquote>
+
+Untuk hasilnya bisa dilihat pada tabel perbandingan. 
 
 3. Soal 3: 📋<br>
     Buat tabel perbandingan raster dan vektor berdasarkan hasil praktikum Anda.
@@ -151,6 +184,6 @@ Untuk penjelasan kode diatas :
 
 | Raster | Vektor |
 |------|----------|
-| <img width="259" height="233" alt="image" src="https://github.com/user-attachments/assets/9cfa5140-e4f9-4858-b620-d901ffb2b191" /> | <img width="233" height="143" alt="image" src="https://github.com/user-attachments/assets/84727acd-4716-4de5-a2a1-441427fac8a6" /> |
+| <img width="259" height="233" alt="image" src="https://github.com/user-attachments/assets/9cfa5140-e4f9-4858-b620-d901ffb2b191" /> | <img width="233" height="253" alt="image" src="https://github.com/user-attachments/assets/5863a52f-3ae7-4bca-a8fa-5fd569b180cf" /> |
 
 </div>
