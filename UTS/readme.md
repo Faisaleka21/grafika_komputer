@@ -3,8 +3,7 @@
 ## 👤 Informasi Proyek
 - **Mata Kuliah** : Grafika Komputer  
 - **Jenis Proyek** : Mini Project Grafika 2D  
-- **Bahasa** : Python  
-- **Library** : Turtle Graphics  
+- **Bahasa** : Python
 
 ---
 
